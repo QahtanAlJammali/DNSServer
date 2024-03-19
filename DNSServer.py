@@ -76,7 +76,7 @@ dns_records = {
         ),
     },
     'safebank.com.': {
-        dns.rdatatype.A:'192.168.1.101',
+        dns.rdatatype.A:'192.168.1.102',
     },
     'google.com.': {
         dns.rdatatype.A: '192.168.1.103',
