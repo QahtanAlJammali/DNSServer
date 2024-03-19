@@ -84,6 +84,9 @@ dns_records = {
     'legitsite.com.': {
         dns.rdatatype.A: '192.168.1.104',
     },
+      'yahoo.com.': {
+        dns.rdatatype.A: '192.168.1.105',
+    },
     'nyu.edu.': {
         dns.rdatatype.A: '192.168.1.106',
         dns.rdatatype.TXT: str(encrypted_value),
